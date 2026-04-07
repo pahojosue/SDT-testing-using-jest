@@ -1,0 +1,19 @@
+{
+  "name": "lab-3-project",
+  "version": "1.0.0",
+  "description": "A simple project created for Software Development Tools Lab 3",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "PahoJosue",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}

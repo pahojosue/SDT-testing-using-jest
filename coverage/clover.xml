@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775525233254" clover="3.2.0">
+  <project timestamp="1775525233254" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="passwordValidator.js" path="D:\Disk C\Old 2\School\Year 3\Full Stack\Software Development Tools\Lab 3\passwordValidator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="3" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
